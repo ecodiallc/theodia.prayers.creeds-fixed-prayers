@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "updatedAt": "2026-10-03T00:00:00.000Z",
   "packages": [
     {
       "id": "protestant-creeds-and-prayers",
@@ -9,8 +9,15 @@
       "name": "Protestant Creeds and Prayers",
       "description": "Protestant creeds and historic prayers",
       "author": "Theodia",
-      "traditions": ["Protestant"],
-      "tags": ["creed", "confession", "prayer", "protestant"],
+      "traditions": [
+        "Protestant"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "prayer",
+        "protestant"
+      ],
       "version": "1.0.0"
     },
     {
@@ -20,8 +27,16 @@
       "name": "Reformed Creeds and Prayers",
       "description": "Reformed confessions, catechism selections, and prayers",
       "author": "Theodia",
-      "traditions": ["Reformed"],
-      "tags": ["creed", "confession", "catechism", "prayer", "reformed"],
+      "traditions": [
+        "Reformed"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "catechism",
+        "prayer",
+        "reformed"
+      ],
       "version": "1.0.0"
     },
     {
@@ -31,8 +46,19 @@
       "name": "Presbyterian Creeds and Prayers",
       "description": "Presbyterian and Reformed confessions, Westminster catechism selections, and historic prayers",
       "author": "Theodia",
-      "traditions": ["Presbyterian", "Reformed"],
-      "tags": ["creed", "confession", "catechism", "prayer", "presbyterian", "reformed", "westminster"],
+      "traditions": [
+        "Presbyterian",
+        "Reformed"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "catechism",
+        "prayer",
+        "presbyterian",
+        "reformed",
+        "westminster"
+      ],
       "version": "1.0.0"
     },
     {
@@ -42,8 +68,16 @@
       "name": "Lutheran Creeds and Prayers",
       "description": "Lutheran creeds, catechism selections, and prayers",
       "author": "Theodia",
-      "traditions": ["Lutheran"],
-      "tags": ["creed", "confession", "catechism", "prayer", "lutheran"],
+      "traditions": [
+        "Lutheran"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "catechism",
+        "prayer",
+        "lutheran"
+      ],
       "version": "1.0.0"
     },
     {
@@ -53,8 +87,16 @@
       "name": "Anglican Creeds and Prayers",
       "description": "Anglican prayer-book collects, creeds, and prayers",
       "author": "Theodia",
-      "traditions": ["Anglican"],
-      "tags": ["creed", "prayer", "collect", "anglican", "prayer-book"],
+      "traditions": [
+        "Anglican"
+      ],
+      "tags": [
+        "creed",
+        "prayer",
+        "collect",
+        "anglican",
+        "prayer-book"
+      ],
       "version": "1.0.0"
     },
     {
@@ -64,8 +106,17 @@
       "name": "Methodist Creeds and Prayers",
       "description": "Methodist and Wesleyan creeds, articles, and prayers",
       "author": "Theodia",
-      "traditions": ["Methodist"],
-      "tags": ["creed", "confession", "article", "prayer", "methodist", "wesleyan"],
+      "traditions": [
+        "Methodist"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "article",
+        "prayer",
+        "methodist",
+        "wesleyan"
+      ],
       "version": "1.0.0"
     },
     {
@@ -75,8 +126,15 @@
       "name": "Baptist Creeds and Prayers",
       "description": "Baptist confessions and prayers",
       "author": "Theodia",
-      "traditions": ["Baptist"],
-      "tags": ["creed", "confession", "prayer", "baptist"],
+      "traditions": [
+        "Baptist"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "prayer",
+        "baptist"
+      ],
       "version": "1.0.0"
     },
     {
@@ -86,8 +144,16 @@
       "name": "Pentecostal Creeds and Prayers",
       "description": "Pentecostal and charismatic affirmations and prayers",
       "author": "Theodia",
-      "traditions": ["Pentecostal"],
-      "tags": ["creed", "affirmation", "prayer", "pentecostal", "charismatic"],
+      "traditions": [
+        "Pentecostal"
+      ],
+      "tags": [
+        "creed",
+        "affirmation",
+        "prayer",
+        "pentecostal",
+        "charismatic"
+      ],
       "version": "1.0.0"
     },
     {
@@ -97,8 +163,16 @@
       "name": "Catholic Creeds and Prayers",
       "description": "Roman Catholic creeds, prayers, and devotions",
       "author": "Theodia",
-      "traditions": ["Catholic"],
-      "tags": ["creed", "prayer", "devotion", "catholic", "roman-catholic"],
+      "traditions": [
+        "Catholic"
+      ],
+      "tags": [
+        "creed",
+        "prayer",
+        "devotion",
+        "catholic",
+        "roman-catholic"
+      ],
       "version": "1.0.0"
     },
     {
@@ -108,8 +182,17 @@
       "name": "Orthodox Creeds and Prayers",
       "description": "Eastern Orthodox creeds, the Nicene-Constantinopolitan Creed, and prayers",
       "author": "Theodia",
-      "traditions": ["Orthodox"],
-      "tags": ["creed", "prayer", "nicene", "constantinopolitan", "orthodox", "eastern-orthodox"],
+      "traditions": [
+        "Orthodox"
+      ],
+      "tags": [
+        "creed",
+        "prayer",
+        "nicene",
+        "constantinopolitan",
+        "orthodox",
+        "eastern-orthodox"
+      ],
       "version": "1.0.0"
     },
     {
@@ -119,8 +202,18 @@
       "name": "Coptic Creeds and Prayers",
       "description": "Coptic Orthodox creeds, the Nicene Creed, and prayers honoring the Theotokos, the saints, and the departed",
       "author": "Theodia",
-      "traditions": ["Coptic", "Orthodox"],
-      "tags": ["creed", "prayer", "coptic", "orthodox", "theotokos", "saint"],
+      "traditions": [
+        "Coptic",
+        "Orthodox"
+      ],
+      "tags": [
+        "creed",
+        "prayer",
+        "coptic",
+        "orthodox",
+        "theotokos",
+        "saint"
+      ],
       "version": "1.0.0"
     },
     {
@@ -130,8 +223,17 @@
       "name": "General Contemporary Creeds and Prayers",
       "description": "Contemporary Christian creeds and prayers for modern evangelical and non-denominational worship",
       "author": "Theodia",
-      "traditions": ["General", "Contemporary"],
-      "tags": ["creed", "prayer", "contemporary", "evangelical", "non-denominational"],
+      "traditions": [
+        "General",
+        "Contemporary"
+      ],
+      "tags": [
+        "creed",
+        "prayer",
+        "contemporary",
+        "evangelical",
+        "non-denominational"
+      ],
       "version": "1.0.0"
     },
     {
@@ -141,8 +243,15 @@
       "name": "African American Church Creeds and Prayers",
       "description": "Prayers and affirmations from the African American Church tradition",
       "author": "Theodia",
-      "traditions": ["African American Church"],
-      "tags": ["prayer", "affirmation", "african-american", "church"],
+      "traditions": [
+        "African American Church"
+      ],
+      "tags": [
+        "prayer",
+        "affirmation",
+        "african-american",
+        "church"
+      ],
       "version": "1.0.0"
     },
     {
@@ -152,8 +261,16 @@
       "name": "Anabaptist Creeds and Prayers",
       "description": "Anabaptist confessions, prayers, and devotional words",
       "author": "Theodia",
-      "traditions": ["Anabaptist"],
-      "tags": ["creed", "confession", "prayer", "anabaptist", "mennonite"],
+      "traditions": [
+        "Anabaptist"
+      ],
+      "tags": [
+        "creed",
+        "confession",
+        "prayer",
+        "anabaptist",
+        "mennonite"
+      ],
       "version": "1.0.0"
     },
     {
@@ -163,8 +280,15 @@
       "name": "Quaker Friends Creeds and Prayers",
       "description": "Quaker and Friends writings, queries, and prayers",
       "author": "Theodia",
-      "traditions": ["Quaker"],
-      "tags": ["prayer", "query", "quaker", "friends"],
+      "traditions": [
+        "Quaker"
+      ],
+      "tags": [
+        "prayer",
+        "query",
+        "quaker",
+        "friends"
+      ],
       "version": "1.0.0"
     },
     {
@@ -174,8 +298,14 @@
       "name": "Jewish Creeds and Prayers",
       "description": "Common Jewish prayers and blessings",
       "author": "Theodia",
-      "traditions": ["Jewish"],
-      "tags": ["prayer", "blessing", "jewish"],
+      "traditions": [
+        "Jewish"
+      ],
+      "tags": [
+        "prayer",
+        "blessing",
+        "jewish"
+      ],
       "version": "1.0.0"
     },
     {
@@ -185,8 +315,37 @@
       "name": "Messianic Jewish Creeds and Prayers",
       "description": "Messianic Jewish creeds and prayers honoring Yeshua as Messiah",
       "author": "Theodia",
-      "traditions": ["Messianic Jewish"],
-      "tags": ["creed", "prayer", "messianic", "jewish", "yeshua", "messiah"],
+      "traditions": [
+        "Messianic Jewish"
+      ],
+      "tags": [
+        "creed",
+        "prayer",
+        "messianic",
+        "jewish",
+        "yeshua",
+        "messiah"
+      ],
+      "version": "1.0.0"
+    },
+    {
+      "id": "ecumenical-historical-creeds-and-prayers",
+      "type": "prayer-set",
+      "path": "Ecumenical-Historical-Creeds-And-Prayers.prayer.zip",
+      "name": "Ecumenical and Historical Creeds",
+      "description": "Ecumenical creeds and historic confessions shared across the Church, including the Apostles' Creed, Nicene Creed, Athanasian Creed, Chalcedonian Definition, and Te Deum.",
+      "author": "Theodia",
+      "traditions": [
+        "Ecumenical",
+        "Historical"
+      ],
+      "tags": [
+        "ecumenical",
+        "historical",
+        "creed",
+        "prayer",
+        "common-prayers"
+      ],
       "version": "1.0.0"
     }
   ]
