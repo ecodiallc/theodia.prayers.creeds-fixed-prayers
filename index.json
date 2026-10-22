@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T00:00:00.000Z",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
   "packages": [
     {
       "id": "protestant-creeds-and-prayers",
@@ -18,7 +18,8 @@
         "prayer",
         "protestant"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 5777
     },
     {
       "id": "reformed-creeds-and-prayers",
@@ -37,7 +38,8 @@
         "prayer",
         "reformed"
       ],
-      "version": "1.0.0"
+      "version": "1.1.0",
+      "size": 6075
     },
     {
       "id": "presbyterian-creeds-and-prayers",
@@ -59,7 +61,8 @@
         "reformed",
         "westminster"
       ],
-      "version": "1.0.0"
+      "version": "1.1.0",
+      "size": 5575
     },
     {
       "id": "lutheran-creeds-and-prayers",
@@ -78,7 +81,8 @@
         "prayer",
         "lutheran"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3314
     },
     {
       "id": "anglican-creeds-and-prayers",
@@ -97,7 +101,8 @@
         "anglican",
         "prayer-book"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 4906
     },
     {
       "id": "methodist-creeds-and-prayers",
@@ -117,7 +122,8 @@
         "methodist",
         "wesleyan"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3454
     },
     {
       "id": "baptist-creeds-and-prayers",
@@ -135,7 +141,8 @@
         "prayer",
         "baptist"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3014
     },
     {
       "id": "pentecostal-creeds-and-prayers",
@@ -154,7 +161,8 @@
         "pentecostal",
         "charismatic"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 2805
     },
     {
       "id": "catholic-creeds-and-prayers",
@@ -173,7 +181,8 @@
         "catholic",
         "roman-catholic"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 4040
     },
     {
       "id": "orthodox-creeds-and-prayers",
@@ -193,7 +202,8 @@
         "orthodox",
         "eastern-orthodox"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3986
     },
     {
       "id": "coptic-creeds-and-prayers",
@@ -214,7 +224,8 @@
         "theotokos",
         "saint"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3275
     },
     {
       "id": "general-contemporary-creeds-and-prayers",
@@ -234,7 +245,8 @@
         "evangelical",
         "non-denominational"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3854
     },
     {
       "id": "african-american-church-creeds-and-prayers",
@@ -252,7 +264,8 @@
         "african-american",
         "church"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3121
     },
     {
       "id": "anabaptist-creeds-and-prayers",
@@ -271,7 +284,8 @@
         "anabaptist",
         "mennonite"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3313
     },
     {
       "id": "quaker-friends-creeds-and-prayers",
@@ -289,7 +303,8 @@
         "quaker",
         "friends"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 2728
     },
     {
       "id": "jewish-creeds-and-prayers",
@@ -306,7 +321,8 @@
         "blessing",
         "jewish"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3157
     },
     {
       "id": "messianic-jewish-creeds-and-prayers",
@@ -326,7 +342,8 @@
         "yeshua",
         "messiah"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 4047
     },
     {
       "id": "ecumenical-historical-creeds-and-prayers",
@@ -346,7 +363,8 @@
         "prayer",
         "common-prayers"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "size": 3724
     }
   ]
 }

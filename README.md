@@ -2,25 +2,47 @@
 
 A dedicated repository of downloadable Christian and Jewish creeds, confessions, and fixed prayers for the Theodia app.
 
-| File | Contents |
-|---|---|
-| `Protestant-Creeds-And-Prayers.prayer.zip` | Protestant creeds and historic prayers |
-| `Reformed-Creeds-And-Prayers.prayer.zip` | Reformed confessions, catechism selections, and prayers |
-| `Presbyterian-Creeds-And-Prayers.prayer.zip` | Presbyterian and Reformed confessions, Westminster catechism selections, and historic prayers |
-| `Lutheran-Creeds-And-Prayers.prayer.zip` | Lutheran creeds, catechism selections, and prayers |
-| `Anglican-Creeds-And-Prayers.prayer.zip` | Anglican prayer-book collects, creeds, and prayers |
-| `Methodist-Creeds-And-Prayers.prayer.zip` | Methodist and Wesleyan creeds, articles, and prayers |
-| `Baptist-Creeds-And-Prayers.prayer.zip` | Baptist confessions and prayers |
-| `Pentecostal-Creeds-And-Prayers.prayer.zip` | Pentecostal and charismatic affirmations and prayers |
-| `Catholic-Creeds-And-Prayers.prayer.zip` | Roman Catholic creeds, prayers, and devotions |
-| `Orthodox-Creeds-And-Prayers.prayer.zip` | Eastern Orthodox creeds, the Nicene-Constantinopolitan Creed, and prayers |
-| `Coptic-Creeds-And-Prayers.prayer.zip` | Coptic Orthodox creeds, the Nicene Creed, and prayers honoring the Theotokos, the saints, and the departed |
-| `General-Contemporary-Creeds-And-Prayers.prayer.zip` | Contemporary Christian creeds and prayers for modern evangelical and non-denominational worship |
-| `African-American-Church-Creeds-And-Prayers.prayer.zip` | Prayers and affirmations from the African American Church tradition |
-| `Anabaptist-Creeds-And-Prayers.prayer.zip` | Anabaptist confessions, prayers, and devotional words |
-| `Quaker-Friends-Creeds-And-Prayers.prayer.zip` | Quaker and Friends writings, queries, and prayers |
-| `Jewish-Creeds-And-Prayers.prayer.zip` | Common Jewish prayers and blessings |
-| `Messianic-Jewish-Creeds-And-Prayers.prayer.zip` | Messianic Jewish creeds and prayers honoring Yeshua as Messiah |
+| ID | Name |
+| --- | ---- |
+| `protestant-creeds-and-prayers` | Protestant Creeds and Prayers |
+| `reformed-creeds-and-prayers` | Reformed Creeds and Prayers |
+| `presbyterian-creeds-and-prayers` | Presbyterian Creeds and Prayers |
+| `lutheran-creeds-and-prayers` | Lutheran Creeds and Prayers |
+| `anglican-creeds-and-prayers` | Anglican Creeds and Prayers |
+| `methodist-creeds-and-prayers` | Methodist Creeds and Prayers |
+| `baptist-creeds-and-prayers` | Baptist Creeds and Prayers |
+| `pentecostal-creeds-and-prayers` | Pentecostal Creeds and Prayers |
+| `catholic-creeds-and-prayers` | Catholic Creeds and Prayers |
+| `orthodox-creeds-and-prayers` | Orthodox Creeds and Prayers |
+| `coptic-creeds-and-prayers` | Coptic Creeds and Prayers |
+| `general-contemporary-creeds-and-prayers` | General Contemporary Creeds and Prayers |
+| `african-american-church-creeds-and-prayers` | African American Church Creeds and Prayers |
+| `anabaptist-creeds-and-prayers` | Anabaptist Creeds and Prayers |
+| `quaker-friends-creeds-and-prayers` | Quaker Friends Creeds and Prayers |
+| `jewish-creeds-and-prayers` | Jewish Creeds and Prayers |
+| `messianic-jewish-creeds-and-prayers` | Messianic Jewish Creeds and Prayers |
+| `ecumenical-historical-creeds-and-prayers` | Ecumenical and Historical Creeds |
+
+## Sources
+
+- `protestant-creeds-and-prayers`: Protestant creeds and historic prayers
+- `reformed-creeds-and-prayers`: Reformed confessions, catechism selections, and prayers
+- `presbyterian-creeds-and-prayers`: Presbyterian and Reformed confessions, Westminster catechism selections, and historic prayers
+- `lutheran-creeds-and-prayers`: Lutheran creeds, catechism selections, and prayers
+- `anglican-creeds-and-prayers`: Anglican prayer-book collects, creeds, and prayers
+- `methodist-creeds-and-prayers`: Methodist and Wesleyan creeds, articles, and prayers
+- `baptist-creeds-and-prayers`: Baptist confessions and prayers
+- `pentecostal-creeds-and-prayers`: Pentecostal and charismatic affirmations and prayers
+- `catholic-creeds-and-prayers`: Roman Catholic creeds, prayers, and devotions
+- `orthodox-creeds-and-prayers`: Eastern Orthodox creeds, the Nicene-Constantinopolitan Creed, and prayers
+- `coptic-creeds-and-prayers`: Coptic Orthodox creeds, the Nicene Creed, and prayers honoring the Theotokos, the saints, and the departed
+- `general-contemporary-creeds-and-prayers`: Contemporary Christian creeds and prayers for modern evangelical and non-denominational worship
+- `african-american-church-creeds-and-prayers`: Prayers and affirmations from the African American Church tradition
+- `anabaptist-creeds-and-prayers`: Anabaptist confessions, prayers, and devotional words
+- `quaker-friends-creeds-and-prayers`: Quaker and Friends writings, queries, and prayers
+- `jewish-creeds-and-prayers`: Common Jewish prayers and blessings
+- `messianic-jewish-creeds-and-prayers`: Messianic Jewish creeds and prayers honoring Yeshua as Messiah
+- `ecumenical-historical-creeds-and-prayers`: Ecumenical creeds and historic confessions shared across the Church, including the Apostles' Creed, Nicene Creed, Athanasian Creed, Chalcedonian Definition, and Te Deum.
 
 ## Source
 
