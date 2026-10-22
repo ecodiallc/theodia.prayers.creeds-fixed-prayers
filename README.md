@@ -1,7 +1,5 @@
 # Theodia Prayer Creeds & Fixed Prayers
 
-A dedicated repository of downloadable Christian and Jewish creeds, confessions, and fixed prayers for the Theodia app.
-
 | ID | Name |
 | --- | ---- |
 | `protestant-creeds-and-prayers` | Protestant Creeds and Prayers |
