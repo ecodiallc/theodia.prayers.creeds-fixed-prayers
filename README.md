@@ -45,3 +45,8 @@
 ## Source
 
 Historic creed and prayer texts are drawn from public-domain or widely licensed Christian and Jewish worship sources.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
